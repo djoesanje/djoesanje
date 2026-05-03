@@ -19,7 +19,7 @@ I am Joe S. Dominguez, with a flair for coding and database management skills. I
 
 ### 🛠 Skill Sets
 * **Programming:** Java, Javascript
-* **Databases:** IBM DB2 Cloud
+* **Databases:** IBM DB2 Cloud, MongoDB
 * **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, Pentaho, HTML
 
 ### 📫 Connect with me:
