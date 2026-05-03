@@ -13,7 +13,7 @@ I am Joe S. Dominguez, with a flair for coding and database management skills. I
 * 2021 - Present
 
 ### 📜 Certifications
-* [NoSQL and DBaaS 101](https://your-cert-link-here.com)
+* [NoSQL and DBaaS 101]([https://your-cert-link-here.com](https://courses.cognitiveclass.ai/certificates/87c579a4c051463ca17405d5dc756483))
 * [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://your-cert-link-here.com)
 * [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://your-cert-link-here.com)
 
