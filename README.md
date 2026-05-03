@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Joe S. Dominguez! 👋
 
-<!--
-**djoesanje/djoesanje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="formal-photo.jpg" width="150" style="border-radius: 10px;">
+</p>
 
-Here are some ideas to get you started:
+### About Me
+I am Joe S. Dominguez, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the BS Information Technology program.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Education
+* **BS Information Technology**
+* New Era University
+* 2021 - Present
+
+### 📜 Certifications
+* [NoSQL and DBaaS 101](https://your-cert-link-here.com)
+* [Oracle Cloud Data Management 2023 Certified Foundations Associate](https://your-cert-link-here.com)
+* [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://your-cert-link-here.com)
+
+### 🛠 Skill Sets
+* **Programming:** Java, Javascript
+* **Databases:** IBM DB2 Cloud
+* **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
+
+### 📫 Connect with me:
+* [LinkedIn Profile](https://linkedin.com/in/your-profile)
+* **Email:** djoesanje@example.com
