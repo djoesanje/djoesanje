@@ -23,5 +23,5 @@ I am Joe S. Dominguez, with a flair for coding and database management skills. I
 * **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
 ### 📫 Connect with me:
-* [LinkedIn Profile](https://linkedin.com/in/your-profile)
+* [LinkedIn Profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/joe-sanje-dominguez-029982345/))
 * **Email:** djoesanje@example.com
