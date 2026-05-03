@@ -1,7 +1,7 @@
 # Hi there, I'm Joe S. Dominguez! 👋
 
 <p align="left">
-  <img src="formal-photo.jpg" width="150" style="border-radius: 10px;">
+  <img src="profilepic.jpg" width="150" style="border-radius: 10px;">
 </p>
 
 ### About Me
